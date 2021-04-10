@@ -12,7 +12,7 @@
 
 | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |------|--------|----------|--------|----------|
-| [미정][track a 1 topic] | [전미정][track a 1 speaker] | [링크][track a 1 slide] | [링크][track a 1 video] | [링크][track a 1 code] |
+| [ONNX runtime과 Keras의 만남(feat. new Azure ML Stuido)][track a 1 topic] | [전미정][track a 1 speaker] | [링크][track a 1 slide] | [링크][track a 1 video] | [링크][track a 1 code] |
 | [파이썬으로 만들어보는 챗봇 (Feat. Bot Framework)][track a 2 topic] | [김영욱][track a 2 speaker] | [링크][track a 2 slide] | [링크][track a 2 video] | [링크][track a 2 code] |
 | [미정][track a 3 topic] | [김태영][track a 3 speaker] | [링크][track a 3 slide] | [링크][track a 3 video] | [링크][track a 3 code] |
 | [미정][track a 4 topic] | [조승민][track a 4 speaker] | [링크][track a 4 slide] | [링크][track a 4 video] | [링크][track a 4 code] |
@@ -45,10 +45,10 @@
 
 | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |------|--------|----------|--------|----------|
-| [git이 뭔가요? 먹는 건가요? 우걱우걱?][track d 1 topic] | [김유진][track d 1 speaker] | [링크][track d 1 slide] | [링크][track d 1 video] | [링크][track d 1 code] |
+| [깃을 정복하고 싶으신 거지 (feat. 무야호)][track d 1 topic] | [김유진][track d 1 speaker] | [링크][track d 1 slide] | [링크][track d 1 video] | [링크][track d 1 code] |
 | [파워 BI로 아이디어 시각화하기][track d 2 topic] | [최윤정][track d 2 speaker] | [링크][track d 2 slide] | [링크][track d 2 video] | [링크][track d 2 code] |
-| [미정][track d 3 topic] | [이준성][track d 3 speaker] | [링크][track d 3 slide] | [링크][track d 3 video] | [링크][track d 3 code] |
-| [미정][track d 4 topic] | [Ho Duc Hieu (호둑휴)][track d 4 speaker] | [링크][track d 4 slide] | [링크][track d 4 video] | [링크][track d 4 code] |
+| [애저 가상 머신][track d 3 topic] | [이준성][track d 3 speaker] | [링크][track d 3 slide] | [링크][track d 3 video] | [링크][track d 3 code] |
+| [Microsoft Learn으로 애저 시작하기][track d 4 topic] | [Ho Duc Hieu (호둑휴)][track d 4 speaker] | [링크][track d 4 slide] | [링크][track d 4 video] | [링크][track d 4 code] |
 
 
 ## 행동 강령 (Code of Conduct) ##
@@ -58,12 +58,12 @@
 [행동 강령 보러 가기](CODE-OF-CONDUCT.md)
 
 
-[track a 1 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 1 speaker]: https://github.com/krazure/ga2021kr/issues/3
 [track a 2 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track a 3 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track a 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track a 5 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track a 1 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 1 topic]: https://github.com/krazure/ga2021kr/issues/4
 [track a 2 topic]: https://github.com/krazure/ga2021kr/issues/2021
 [track a 3 topic]: https://github.com/krazure/ga2021kr/issues/2021
 [track a 4 topic]: https://github.com/krazure/ga2021kr/issues/2021
@@ -136,14 +136,14 @@
 [track c 4 code]: https://github.com/krazure/code
 [track c 5 code]: https://github.com/krazure/code
 
-[track d 1 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 2 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 3 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 1 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 2 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 3 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track d 4 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track d 1 speaker]: https://github.com/krazure/ga2021kr/issues/5
+[track d 2 speaker]: https://github.com/krazure/ga2021kr/issues/6
+[track d 3 speaker]: https://github.com/krazure/ga2021kr/issues/7
+[track d 4 speaker]: https://github.com/krazure/ga2021kr/issues/8
+[track d 1 topic]: https://github.com/krazure/ga2021kr/issues/9
+[track d 2 topic]: https://github.com/krazure/ga2021kr/issues/10
+[track d 3 topic]: https://github.com/krazure/ga2021kr/issues/11
+[track d 4 topic]: https://github.com/krazure/ga2021kr/issues/12
 [track d 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
 [track d 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
 [track d 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
