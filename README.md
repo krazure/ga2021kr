@@ -110,7 +110,7 @@
 [track b 4 code]: https://github.com/krazure/code
 [track b 5 code]: https://github.com/krazure/code
 
-[track c 1 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track c 1 speaker]: https://github.com/krazure/ga2021kr/issues/23
 [track c 2 speaker]: https://github.com/krazure/ga2021kr/issues/19
 [track c 3 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track c 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
