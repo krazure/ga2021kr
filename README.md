@@ -87,12 +87,12 @@
 [track b 1 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track b 2 speaker]: https://github.com/krazure/ga2021kr/issues/1
 [track b 3 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track b 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 4 speaker]: https://github.com/krazure/ga2021kr/issues/28
 [track b 5 speaker]: https://github.com/krazure/ga2021kr/issues/2021
 [track b 1 topic]: https://github.com/krazure/ga2021kr/issues/2021
 [track b 2 topic]: https://github.com/krazure/ga2021kr/issues/2
 [track b 3 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track b 4 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 4 topic]: https://github.com/krazure/ga2021kr/issues/29
 [track b 5 topic]: https://github.com/krazure/ga2021kr/issues/2021
 [track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
 [track b 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
