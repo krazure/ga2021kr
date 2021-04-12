@@ -26,7 +26,7 @@
 | 13:00 | [미정][track b 1 topic] | [김세준][track b 1 speaker] | [링크][track b 1 slide] | [링크][track b 1 video] | [링크][track b 1 code] |
 | 13:50 | [ARM 템플릿 물렀거라, Bicep 나가신다][track b 2 topic] | [유저스틴][track b 2 speaker] | [링크][track b 2 slide] | [링크][track b 2 video] | [링크][track b 2 code] |
 | 14:40 | [미정][track b 3 topic] | [박상엽][track b 3 speaker] | [링크][track b 3 slide] | [링크][track b 3 video] | [링크][track b 3 code] |
-| 15:30 | [AKS 네트워크 비교하기][track b 4 topic] | [김영대][track b 4 speaker] | [링크][track b 4 slide] | [링크][track b 4 video] | [링크][track b 4 code] |
+| 15:30 | [AKS(Azure Kubernetes Service) 네트워크 비교 및 클러스터 구축 시 용량 산정 이야기][track b 4 topic] | [김영대][track b 4 speaker] | [링크][track b 4 slide] | [링크][track b 4 video] | [링크][track b 4 code] |
 | 16:20 | [Azure PaaS 기반 ML 플랫폼 구성 방법론][track b 5 topic] | [배준현][track b 5 speaker] | [링크][track b 5 slide] | [링크][track b 5 video] | [링크][track b 5 code] |
 
 
