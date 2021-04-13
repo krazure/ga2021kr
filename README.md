@@ -16,16 +16,16 @@
 | 13:50 | [파이썬으로 만들어보는 챗봇 (Feat. Bot Framework)][track a 2 topic] | [김영욱][track a 2 speaker] | [링크][track a 2 slide] | [링크][track a 2 video] | [링크][track a 2 code] |
 | 14:40 | [오픈 플랫폼을 이용해서 이제 인공지능 경진대회도 직접 개최해보자][track a 3 topic] | [김태영][track a 3 speaker] | [링크][track a 3 slide] | [링크][track a 3 video] | [링크][track a 3 code] |
 | 15:30 | [미정][track a 4 topic] | [조승민][track a 4 speaker] | [링크][track a 4 slide] | [링크][track a 4 video] | [링크][track a 4 code] |
-| 16:20 | [미정][track a 5 topic] | [류정현][track a 5 speaker] | [링크][track a 5 slide] | [링크][track a 5 video] | [링크][track a 5 code] |
+| 16:20 | [미정][track a 5 topic] | [최영락][track a 5 speaker] | [링크][track a 5 slide] | [링크][track a 5 video] | [링크][track a 5 code] |
 
 
 ### 트랙 B: Azure for Operations ###
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
-| 13:00 | [미정][track b 1 topic] | [김세준][track b 1 speaker] | [링크][track b 1 slide] | [링크][track b 1 video] | [링크][track b 1 code] |
+| 13:00 | [We are the Azure~♬ (부제: 리소스 관리, Azure로 대동단결)][track b 1 topic] | [김세준][track b 1 speaker] | [링크][track b 1 slide] | [링크][track b 1 video] | [링크][track b 1 code] |
 | 13:50 | [ARM 템플릿 물렀거라, Bicep 나가신다][track b 2 topic] | [유저스틴][track b 2 speaker] | [링크][track b 2 slide] | [링크][track b 2 video] | [링크][track b 2 code] |
-| 14:40 | [미정][track b 3 topic] | [박상엽][track b 3 speaker] | [링크][track b 3 slide] | [링크][track b 3 video] | [링크][track b 3 code] |
+| 14:40 | [Azure는 쓰고 있는데.. 보안이 걱정돼요!][track b 3 topic] | [박상엽][track b 3 speaker] | [링크][track b 3 slide] | [링크][track b 3 video] | [링크][track b 3 code] |
 | 15:30 | [AKS(Azure Kubernetes Service) 네트워크 비교 및 클러스터 구축 시 용량 산정 이야기][track b 4 topic] | [김영대][track b 4 speaker] | [링크][track b 4 slide] | [링크][track b 4 video] | [링크][track b 4 code] |
 | 16:20 | [Azure PaaS 기반 ML 플랫폼 구성 방법론][track b 5 topic] | [배준현][track b 5 speaker] | [링크][track b 5 slide] | [링크][track b 5 video] | [링크][track b 5 code] |
 
@@ -84,16 +84,16 @@
 [track a 4 code]: https://github.com/krazure/code
 [track a 5 code]: https://github.com/krazure/code
 
-[track b 1 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 1 speaker]: https://github.com/krazure/ga2021kr/issues/32
 [track b 2 speaker]: https://github.com/krazure/ga2021kr/issues/1
-[track b 3 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 3 speaker]: https://github.com/krazure/ga2021kr/issues/33
 [track b 4 speaker]: https://github.com/krazure/ga2021kr/issues/28
-[track b 5 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track b 1 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 5 speaker]: https://github.com/krazure/ga2021kr/issues/35
+[track b 1 topic]: https://github.com/krazure/ga2021kr/issues/31
 [track b 2 topic]: https://github.com/krazure/ga2021kr/issues/2
-[track b 3 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 3 topic]: https://github.com/krazure/ga2021kr/issues/34
 [track b 4 topic]: https://github.com/krazure/ga2021kr/issues/29
-[track b 5 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track b 5 topic]: https://github.com/krazure/ga2021kr/issues/36
 [track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
 [track b 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
 [track b 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
