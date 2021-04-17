@@ -12,7 +12,7 @@
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
-| 13:00 | [ONNX runtime과 Keras의 만남(feat. new Azure ML Stuido)][track a 1 topic] | [전미정][track a 1 speaker] | [링크][track a 1 slide] | [링크][track a 1 video] | [링크][track a 1 code] |
+| 13:00 | [ONNX runtime과 Keras의 만남(feat. new Azure ML Studio)][track a 1 topic] | [전미정][track a 1 speaker] | [링크][track a 1 slide] | [링크][track a 1 video] | [링크][track a 1 code] |
 | 13:50 | [파이썬으로 만들어보는 챗봇 (Feat. Bot Framework)][track a 2 topic] | [김영욱][track a 2 speaker] | [링크][track a 2 slide] | [링크][track a 2 video] | [링크][track a 2 code] |
 | 14:40 | [오픈 플랫폼을 이용해서 이제 인공지능 경진대회도 직접 개최해보자][track a 3 topic] | [김태영][track a 3 speaker] | [링크][track a 3 slide] | [링크][track a 3 video] | [링크][track a 3 code] |
 | 15:30 | [미정][track a 4 topic] | [조승민][track a 4 speaker] | [링크][track a 4 slide] | [링크][track a 4 video] | [링크][track a 4 code] |
