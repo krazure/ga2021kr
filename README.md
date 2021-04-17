@@ -3,12 +3,26 @@
 환영합니다! 이 리포지토리는 Global Azure 2021 Korea 이벤트에서 발표한 발표자 분들의 발표자료 및 소스 코드를 포함합니다.
 
 
+## 일정 ##
+
+* 일시: 2021년 4월 24일, 오후 1시 - 5시 10분
+* 장소: YouTube 라이브 스트리밍
+
+
 ## 행사 등록 ##
 
 행사 등록은 [추후 공지](https://localhost/tbd)에서 하실 수 있습니다.
 
 
-### 트랙 A: Azure for AI/Data ###
+## 트랙 ##
+
+* 트랙 A: [링크][track a yt] Azure for AI/Data
+* 트랙 B: [링크][track b yt] Azure for Operations
+* 트랙 C: [링크][track c yt] Azure for Developers
+* 트랙 D: [링크][track d yt] Azure for Juniors
+
+
+## 트랙 A: [Azure for AI/Data][track a yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
@@ -19,7 +33,7 @@
 | 16:20 | [미정][track a 5 topic] | [최영락][track a 5 speaker] | [링크][track a 5 slide] | [링크][track a 5 video] | [링크][track a 5 code] |
 
 
-### 트랙 B: Azure for Operations ###
+## 트랙 B: [Azure for Operations][track b yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
@@ -30,7 +44,7 @@
 | 16:20 | [Azure PaaS 기반 ML 플랫폼 구성 방법론][track b 5 topic] | [배준현][track b 5 speaker] | [링크][track b 5 slide] | [링크][track b 5 video] | [링크][track b 5 code] |
 
 
-### 트랙 C: Azure for Developers ###
+## 트랙 C: [Azure for Developers][track c yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
@@ -41,7 +55,7 @@
 | 16:20 | [강산이 변하고 찾아온 새로운 Cloud Service 톺아보기][track c 5 topic] | [남정현][track c 5 speaker] | [링크][track c 5 slide] | [링크][track c 5 video] | [링크][track c 5 code] |
 
 
-### 트랙 D: Azure for Juniors ###
+## 트랙 D: [Azure for Juniors][track d yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |-------|------|--------|----------|--------|----------|
@@ -58,6 +72,7 @@
 [행동 강령 보러 가기](CODE-OF-CONDUCT.md)
 
 
+[track a yt]: https://bit.ly/ga2021kr-azaidata
 [track a 1 speaker]: https://github.com/krazure/ga2021kr/issues/3
 [track a 2 speaker]: https://github.com/krazure/ga2021kr/issues/15
 [track a 3 speaker]: https://github.com/krazure/ga2021kr/issues/13
@@ -84,6 +99,7 @@
 [track a 4 code]: https://github.com/krazure/code
 [track a 5 code]: https://github.com/krazure/code
 
+[track b yt]: https://bit.ly/ga2021kr-azops
 [track b 1 speaker]: https://github.com/krazure/ga2021kr/issues/32
 [track b 2 speaker]: https://github.com/krazure/ga2021kr/issues/1
 [track b 3 speaker]: https://github.com/krazure/ga2021kr/issues/33
@@ -110,6 +126,7 @@
 [track b 4 code]: https://github.com/krazure/code
 [track b 5 code]: https://github.com/krazure/code
 
+[track c yt]: https://bit.ly/ga2021kr-azdevs
 [track c 1 speaker]: https://github.com/krazure/ga2021kr/issues/17
 [track c 2 speaker]: https://github.com/krazure/ga2021kr/issues/19
 [track c 3 speaker]: https://github.com/krazure/ga2021kr/issues/20
@@ -136,6 +153,7 @@
 [track c 4 code]: https://github.com/krazure/code
 [track c 5 code]: https://github.com/krazure/code
 
+[track d yt]: https://bit.ly/ga2021kr-azjuniors
 [track d 1 speaker]: https://github.com/krazure/ga2021kr/issues/5
 [track d 2 speaker]: https://github.com/krazure/ga2021kr/issues/6
 [track d 3 speaker]: https://github.com/krazure/ga2021kr/issues/8
