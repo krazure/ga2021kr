@@ -6,12 +6,18 @@
 ## 일정 ##
 
 * 일시: 2021년 4월 24일, 오후 1시 - 5시 10분
-* 장소: YouTube 라이브 스트리밍
+* 장소: YouTube 라이브 스트리밍 (아래 링크 참조)
+* 참가자 등록: [링크](https://forms.office.com/r/r4k9TFLg6z)
 
 
-## 행사 등록 ##
+## 후원 ##
 
-행사 등록은 [추후 공지](https://localhost/tbd)에서 하실 수 있습니다.
+이 행사는 아래 후원사에서 도움을 주셨습니다.
+
+![후원사들](https://user-images.githubusercontent.com/1538528/115165709-29dbe380-a0ea-11eb-9f98-82d7b71ef673.png)
+
+* [클라우드메이트](https://cloudmt.co.kr)
+* [마이크로소프트](https://microsoft.com/ko-kr)
 
 
 ## 트랙 ##
