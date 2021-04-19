@@ -83,12 +83,12 @@
 [track a 2 speaker]: https://github.com/krazure/ga2021kr/issues/15
 [track a 3 speaker]: https://github.com/krazure/ga2021kr/issues/13
 [track a 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track a 5 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 5 speaker]: https://github.com/krazure/ga2021kr/issues/38
 [track a 1 topic]: https://github.com/krazure/ga2021kr/issues/4
 [track a 2 topic]: https://github.com/krazure/ga2021kr/issues/16
 [track a 3 topic]: https://github.com/krazure/ga2021kr/issues/14
 [track a 4 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track a 5 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 5 topic]: https://github.com/krazure/ga2021kr/issues/39
 [track a 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
 [track a 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
 [track a 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
