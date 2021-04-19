@@ -36,7 +36,7 @@
 | 13:50 | [파이썬으로 만들어보는 챗봇 (Feat. Bot Framework)][track a 2 topic] | [김영욱][track a 2 speaker] | [링크][track a 2 slide] | [링크][track a 2 video] | [링크][track a 2 code] |
 | 14:40 | [오픈 플랫폼을 이용해서 이제 인공지능 경진대회도 직접 개최해보자][track a 3 topic] | [김태영][track a 3 speaker] | [링크][track a 3 slide] | [링크][track a 3 video] | [링크][track a 3 code] |
 | 15:30 | [미정][track a 4 topic] | [조승민][track a 4 speaker] | [링크][track a 4 slide] | [링크][track a 4 video] | [링크][track a 4 code] |
-| 16:20 | [미정][track a 5 topic] | [최영락][track a 5 speaker] | [링크][track a 5 slide] | [링크][track a 5 video] | [링크][track a 5 code] |
+| 16:20 | [Node.js & React로 만들어보는 AI 웹앱(feat. Cognitive Services)][track a 5 topic] | [최영락][track a 5 speaker] | [링크][track a 5 slide] | [링크][track a 5 video] | [링크][track a 5 code] |
 
 
 ## 트랙 B: [Azure for Operations][track b yt] ##
@@ -83,12 +83,12 @@
 [track a 2 speaker]: https://github.com/krazure/ga2021kr/issues/15
 [track a 3 speaker]: https://github.com/krazure/ga2021kr/issues/13
 [track a 4 speaker]: https://github.com/krazure/ga2021kr/issues/2021
-[track a 5 speaker]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 5 speaker]: https://github.com/krazure/ga2021kr/issues/38
 [track a 1 topic]: https://github.com/krazure/ga2021kr/issues/4
 [track a 2 topic]: https://github.com/krazure/ga2021kr/issues/16
 [track a 3 topic]: https://github.com/krazure/ga2021kr/issues/14
 [track a 4 topic]: https://github.com/krazure/ga2021kr/issues/2021
-[track a 5 topic]: https://github.com/krazure/ga2021kr/issues/2021
+[track a 5 topic]: https://github.com/krazure/ga2021kr/issues/39
 [track a 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
 [track a 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
 [track a 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
