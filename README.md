@@ -58,7 +58,7 @@
 | 13:50 | [Blazor WebApp + FunctionApp DevOps][track c 2 topic] | [주민규][track c 2 speaker] | [링크][track c 2 slide] | [링크][track c 2 video] | [링크][track c 2 code] |
 | 14:40 | [개발자가 애저로 운동하면서 살아남는 법][track c 3 topic] | [서지연][track c 3 speaker] | [링크][track c 3 slide] | [링크][track c 3 video] | [링크][track c 3 code] |
 | 15:30 | [흔들리지 않는 CosmosDB의 편안함 (feat. RU?)][track c 4 topic] | [이종인][track c 4 speaker] | [링크][track c 4 slide] | [링크][track c 4 video] | [링크][track c 4 code] |
-| 16:20 | [강산이 변하고 찾아온 새로운 Cloud Service 톺아보기][track c 5 topic] | [남정현][track c 5 speaker] | [링크][track c 5 slide] | [링크][track c 5 video] | [링크][track c 5 code] |
+| 16:20 | [Azure Cloud Shell로 도전하는 개발 생산성 만렙][track c 5 topic] | [남정현][track c 5 speaker] | [링크][track c 5 slide] | [링크][track c 5 video] | N/A |
 
 
 ## 트랙 D: [Azure for Juniors][track d yt] ##
@@ -157,7 +157,7 @@
 [track c 2 code]: https://github.com/krazure/code
 [track c 3 code]: https://github.com/krazure/code
 [track c 4 code]: https://github.com/krazure/code
-[track c 5 code]: https://github.com/krazure/code
+[track c 5 code]: #
 
 [track d yt]: https://bit.ly/ga2021kr-azjuniors
 [track d 1 speaker]: https://github.com/krazure/ga2021kr/issues/5
