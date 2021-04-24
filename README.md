@@ -31,7 +31,7 @@
 ## 트랙 A: [Azure for AI/Data][track a yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
-|-------|------|--------|----------|--------|----------|
+|:-----:|------|:------:|:--------:|:------:|:--------:|
 | 13:00 | [ONNX runtime과 Keras의 만남(feat. new Azure ML Studio)][track a 1 topic] | [전미정][track a 1 speaker] | 링크 | 링크 | 링크 |
 | 13:50 | [파이썬으로 만들어보는 챗봇 (Feat. Bot Framework)][track a 2 topic] | [김영욱][track a 2 speaker] | 링크 | 링크 | 링크 |
 | 14:40 | [오픈 플랫폼을 이용해서 이제 인공지능 경진대회도 직접 개최해보자][track a 3 topic] | [김태영][track a 3 speaker] | 링크 | 링크 | 링크 |
@@ -41,7 +41,7 @@
 ## 트랙 B: [Azure for Operations][track b yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
-|-------|------|--------|----------|--------|----------|
+|:-----:|------|:------:|:--------:|:------:|:--------:|
 | 13:00 | [We are the Azure~♬ (부제: 리소스 관리, Azure로 대동단결)][track b 1 topic] | [김세준][track b 1 speaker] | 링크 | 링크 | 링크 |
 | 13:50 | [ARM 템플릿 물렀거라, Bicep 나가신다][track b 2 topic] | [유저스틴][track b 2 speaker] | 링크 | 링크 | 링크 |
 | 14:40 | [Azure는 쓰고 있는데.. 보안이 걱정돼요!][track b 3 topic] | [박상엽][track b 3 speaker] | 링크 | 링크 | 링크 |
@@ -52,7 +52,7 @@
 ## 트랙 C: [Azure for Developers][track c yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
-|-------|------|--------|----------|--------|----------|
+|:-----:|------|:------:|:--------:|:------:|:--------:|
 | 13:00 | [순한 맛 Azure 서버리스][track c 1 topic] | [김도균][track c 1 speaker] | 링크 | 링크 | 링크 |
 | 13:50 | [Blazor WebApp + FunctionApp DevOps][track c 2 topic] | [주민규][track c 2 speaker] | 링크 | 링크 | 링크 |
 | 14:40 | [개발자가 애저로 운동하면서 살아남는 법][track c 3 topic] | [서지연][track c 3 speaker] | 링크 | 링크 | 링크 |
@@ -63,7 +63,7 @@
 ## 트랙 D: [Azure for Juniors][track d yt] ##
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
-|-------|------|--------|----------|--------|----------|
+|:-----:|------|:------:|:--------:|:------:|:--------:|
 | 13:00 | [깃을 정복하고 싶으신 거지 (feat. 무야호)][track d 1 topic] | [김유진][track d 1 speaker] | 링크 | 링크 | 링크 |
 | 13:50 | [파워 BI로 아이디어 분석 시각화하기][track d 2 topic] | [최윤정][track d 2 speaker] | 링크 | 링크 | 링크 |
 | 14:40 | [애저 가상 머신][track d 3 topic] | [이준성][track d 3 speaker] | 링크 | 링크 | 링크 |
