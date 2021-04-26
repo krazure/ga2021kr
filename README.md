@@ -42,11 +42,11 @@
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |:-----:|------|:------:|:--------:|:------:|:--------:|
-| 13:00 | [We are the Azure~♬ (부제: 리소스 관리, Azure로 대동단결)][track b 1 topic] | [김세준][track b 1 speaker] | 링크 | 링크 | 링크 |
-| 13:50 | [ARM 템플릿 물렀거라, Bicep 나가신다][track b 2 topic] | [유저스틴][track b 2 speaker] | [링크][track b 2 slide] | 링크 | [링크][track b 2 code] |
-| 14:40 | [Azure는 쓰고 있는데.. 보안이 걱정돼요!][track b 3 topic] | [박상엽][track b 3 speaker] | 링크 | 링크 | 링크 |
-| 15:30 | [AKS(Azure Kubernetes Service) 네트워크 비교 및 클러스터 구축 시 용량 산정 이야기][track b 4 topic] | [김영대][track b 4 speaker] | 링크 | 링크 | 링크 |
-| 16:20 | [Azure PaaS 기반 ML 플랫폼 구성 방법론][track b 5 topic] | [배준현][track b 5 speaker] | [링크][track b 5 slide] | 링크 | 링크 |
+| 13:00 | [We are the Azure~♬ (부제: 리소스 관리, Azure로 대동단결)][track b 1 topic] | [김세준][track b 1 speaker] | [링크][track b 1 slide] | [링크][track b 1 video] | - |
+| 13:50 | [ARM 템플릿 물렀거라, Bicep 나가신다][track b 2 topic] | [유저스틴][track b 2 speaker] | [링크][track b 2 slide] | [링크][track b 2 video] | [링크][track b 2 code] |
+| 14:40 | [Azure는 쓰고 있는데.. 보안이 걱정돼요!][track b 3 topic] | [박상엽][track b 3 speaker] | [링크][track b 3 slide] | [링크][track b 3 video] | - |
+| 15:30 | [AKS(Azure Kubernetes Service) 네트워크 비교 및 클러스터 구축 시 용량 산정 이야기][track b 4 topic] | [김영대][track b 4 speaker] | [링크][track b 4 slide] | [링크][track b 4 video] | - |
+| 16:20 | [Azure PaaS 기반 ML 플랫폼 구성 방법론][track b 5 topic] | [배준현][track b 5 speaker] | [링크][track b 5 slide] | [링크][track b 5 video] | - |
 
 
 ## 트랙 C: [Azure for Developers][track c yt] ##
@@ -109,16 +109,16 @@
 [track b 3 topic]: https://github.com/krazure/ga2021kr/issues/34
 [track b 4 topic]: https://github.com/krazure/ga2021kr/issues/29
 [track b 5 topic]: https://github.com/krazure/ga2021kr/issues/36
-[track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
+[track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-sejunkim.pdf
 [track b 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-justinyoo.pdf
-[track b 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
-[track b 4 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-4.pdf
+[track b 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-sangyeoppark.pdf
+[track b 4 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-youngdaekim.pdf
 [track b 5 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-junhyunbae.pdf
-[track b 1 video]: https://www.youtube.com/watch?v=a-1
-[track b 2 video]: https://www.youtube.com/watch?v=a-2
-[track b 3 video]: https://www.youtube.com/watch?v=a-3
-[track b 4 video]: https://www.youtube.com/watch?v=a-4
-[track b 5 video]: https://www.youtube.com/watch?v=a-5
+[track b 1 video]: https://youtu.be/LCwuYH9O1gE
+[track b 2 video]: https://youtu.be/bAB12YdEQVQ
+[track b 3 video]: https://youtu.be/Owz8zWTPtzg
+[track b 4 video]: https://youtu.be/sK8d8KeA4vE
+[track b 5 video]: https://youtu.be/QLO6DFHA498
 [track b 1 code]: https://github.com/krazure/code
 [track b 2 code]: https://github.com/justinyoo/ga2021krdemo
 [track b 3 code]: https://github.com/krazure/code
