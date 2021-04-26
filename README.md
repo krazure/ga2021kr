@@ -137,10 +137,10 @@
 [track c 4 topic]: https://github.com/krazure/ga2021kr/issues/26
 [track c 5 topic]: https://github.com/krazure/ga2021kr/issues/27
 [track c 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-1.pdf
-[track c 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-2.pdf
-[track c 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-3.pdf
-[track c 4 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-4.pdf
-[track c 5 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-5.pdf
+[track c 2 slide]: https://1drv.ms/p/s!ArWHNGHxF7lBgtw6QONj1XAvr9-6CA?e=DBLaBC
+[track c 3 slide]: https://1drv.ms/b/s!ArWHNGHxF7lBgtw83qpfNIgbPc5swg?e=hm6oWH
+[track c 4 slide]: https://1drv.ms/b/s!ArWHNGHxF7lBgtw78ZrDseDMdsgVaw?e=VRb8ud
+[track c 5 slide]: https://1drv.ms/p/s!ArWHNGHxF7lBgtw9dXRIt9KJ9X0-RA?e=IBPAsi
 [track c 1 video]: https://www.youtube.com/watch?v=a-1
 [track c 2 video]: https://www.youtube.com/watch?v=a-2
 [track c 3 video]: https://www.youtube.com/watch?v=a-3
