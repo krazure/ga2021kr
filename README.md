@@ -53,11 +53,11 @@
 
 | 시각  | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |:-----:|------|:------:|:--------:|:------:|:--------:|
-| 13:00 | [순한 맛 Azure 서버리스][track c 1 topic] | [김도균][track c 1 speaker] | [링크] [track c 1 slide] | [링크] [track c 1 video] | 링크 |
-| 13:50 | [Blazor WebApp + FunctionApp DevOps][track c 2 topic] | [주민규][track c 2 speaker] | [링크] [track c 2 slide] | [링크] [track c 2 video] | 링크 |
-| 14:40 | [개발자가 애저로 운동하면서 살아남는 법][track c 3 topic] | [서지연][track c 3 speaker] | [링크] [track c 3 slide] | [링크] [track c 3 video] | 링크 |
-| 15:30 | [흔들리지 않는 CosmosDB의 편안함 (feat. RU?)][track c 4 topic] | [이종인][track c 4 speaker] | [링크] [track c 4 slide] | [링크] [track c 4 video] | 링크 |
-| 16:20 | [Azure Cloud Shell로 도전하는 개발 생산성 만렙][track c 5 topic] | [남정현][track c 5 speaker] | [링크] [track c 5 slide] | [링크] [track c 5 video] | - |
+| 13:00 | [순한 맛 Azure 서버리스][track c 1 topic] | [김도균][track c 1 speaker] | [링크][track c 1 slide] | [링크][track c 1 video] | 링크 |
+| 13:50 | [Blazor WebApp + FunctionApp DevOps][track c 2 topic] | [주민규][track c 2 speaker] | [링크][track c 2 slide] | [링크][track c 2 video] | 링크 |
+| 14:40 | [개발자가 애저로 운동하면서 살아남는 법][track c 3 topic] | [서지연][track c 3 speaker] | [링크][track c 3 slide] | [링크][track c 3 video] | 링크 |
+| 15:30 | [흔들리지 않는 CosmosDB의 편안함 (feat. RU?)][track c 4 topic] | [이종인][track c 4 speaker] | [링크][track c 4 slide] | [링크][track c 4 video] | 링크 |
+| 16:20 | [Azure Cloud Shell로 도전하는 개발 생산성 만렙][track c 5 topic] | [남정현][track c 5 speaker] | [링크][track c 5 slide] | [링크][track c 5 video] | - |
 
 
 ## 트랙 D: [Azure for Juniors][track d yt] ##
