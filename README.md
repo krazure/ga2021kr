@@ -109,10 +109,10 @@
 [track b 3 topic]: https://github.com/krazure/ga2021kr/issues/34
 [track b 4 topic]: https://github.com/krazure/ga2021kr/issues/29
 [track b 5 topic]: https://github.com/krazure/ga2021kr/issues/36
-[track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-sejunkim.pdf
+[track b 1 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-sejunkim.pdf
 [track b 2 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-justinyoo.pdf
-[track b 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-sangyeoppark.pdf
-[track b 4 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-a/slide-youngdaekim.pdf
+[track b 3 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-sangyeoppark.pdf
+[track b 4 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-youngdaekim.pdf
 [track b 5 slide]: https://github.com/krazure/ga2021kr/blob/main/slides/track-b/slide-junhyunbae.pdf
 [track b 1 video]: https://youtu.be/LCwuYH9O1gE
 [track b 2 video]: https://youtu.be/bAB12YdEQVQ
